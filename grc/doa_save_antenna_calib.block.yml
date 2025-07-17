@@ -1,5 +1,5 @@
 id: doa_save_antenna_calib
-label: save_antenna_calib
+label: Save Antenna Calib
 category: '[doa]'
 
 templates:

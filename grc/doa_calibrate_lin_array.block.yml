@@ -1,5 +1,5 @@
 id: doa_calibrate_lin_array
-label: calibrate_lin_array
+label: Calibrate Lin Array
 category: '[doa]'
 
 templates:
